@@ -7,14 +7,6 @@
       "determined": false,
       "settled": false,
       "timestamp": "timestamp"
-    },
-    {
-      "betTitle": "horse race",
-      "wager": "2 carrots",
-      "timestamp": "Wed Jun 02 2021 13:53:44 GMT-0400 (Eastern Daylight Time)",
-      "determined": false,
-      "settled": false,
-      "id": 2
     }
   ],
   "bets": [
@@ -41,6 +33,10 @@
     {
       "id": 2,
       "name": "Kyle"
+    },
+    {
+      "name": "Bob",
+      "id": 3
     }
   ]
 }
