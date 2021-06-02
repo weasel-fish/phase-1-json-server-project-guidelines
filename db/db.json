@@ -7,40 +7,8 @@
       "determined": false,
       "settled": false,
       "timestamp": "timestamp"
-    },
-    {
-      "betTitle": "Bunny Race",
-      "wager": "vhs tapes",
-      "timestamp": "Wed Jun 02 2021 16:03:17 GMT-0400 (Eastern Daylight Time)",
-      "determined": false,
-      "settled": false,
-      "id": 2
-    },
-    {
-      "betTitle": "horse race",
-      "wager": "blaaaaa",
-      "timestamp": "Wed Jun 02 2021 16:03:59 GMT-0400 (Eastern Daylight Time)",
-      "determined": false,
-      "settled": false,
-      "id": 3
-    },
-    {
-      "betTitle": "aligator race",
-      "wager": "wager test",
-      "timestamp": "Wed Jun 02 2021 16:06:09 GMT-0400 (Eastern Daylight Time)",
-      "determined": false,
-      "settled": false,
-      "id": 4
-    },
-    {
-      "betTitle": "horse race",
-      "wager": "2 carrotsss",
-      "timestamp": "Wed Jun 02 2021 16:10:27 GMT-0400 (Eastern Daylight Time)",
-      "determined": false,
-      "settled": false,
-      "id": 5
-    }
-  ],
+     }
+    ],
   "bets": [
     {
       "id": 1,
@@ -55,21 +23,9 @@
       "eventId": 1,
       "userId": 2,
       "createdAt": 1558524356
-    },
-    {
-      "prediction": "that fluffy will crush the pink panther",
-      "eventId": 2,
-      "userId": "3",
-      "id": 3
-    },
-    {
-      "prediction": "pink panther will try pretty hard",
-      "eventId": 2,
-      "userId": "1",
-      "id": 4
     }
   ],
-  "users": [
+ "users": [
     {
       "id": 1,
       "name": "Brendan"
