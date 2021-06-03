@@ -16,5 +16,14 @@
     "nodemon": "1.18.4"
   },
   "author": "Ian Hollander",
-  "license": "ISC"
+  "license": "ISC",
+  "nodemonConfig": {
+    "ignore": [
+      "db.json"
+    ]
+  }
 }
+
+
+
+
