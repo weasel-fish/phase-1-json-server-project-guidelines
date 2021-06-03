@@ -6,42 +6,7 @@
       "wager": "Chocolate Chip Cookie",
       "determined": false,
       "settled": false,
-      "timestamp": "Thuu Jun 03 2021"
-    },
-    {
-      "betTitle": "horse race",
-      "wager": "vhs tapes",
-      "timestamp": "Thu Jun 03 2021 10:43:06 GMT-0400 (Eastern Daylight Time)",
-      "determined": "complete",
-      "settled": true,
-      "id": 2,
-      "victor": "Greg"
-    },
-    {
-      "betTitle": "horse race",
-      "wager": "vhs tapes",
-      "timestamp": "Thu Jun 03 2021 11:22:55 GMT-0400 (Eastern Daylight Time)",
-      "determined": "complete",
-      "settled": true,
-      "id": 3,
-      "victor": "Brendan"
-    },
-    {
-      "betTitle": "horse race",
-      "wager": "vhs tapes",
-      "timestamp": "Thu Jun 03 2021",
-      "determined": "complete",
-      "settled": true,
-      "id": 4,
-      "victor": "Kyle"
-    },
-    {
-      "betTitle": "Bunny Race",
-      "wager": "headbands",
-      "timestamp": "Thu Jun 03 2021",
-      "determined": false,
-      "settled": false,
-      "id": 5
+      "timestamp": "timestamp"
     }
   ],
   "bets": [
@@ -58,54 +23,6 @@
       "eventId": 1,
       "userId": 2,
       "createdAt": 1558524356
-    },
-    {
-      "prediction": "that fluffy will crush the pink panther",
-      "eventId": 2,
-      "userId": "1",
-      "id": 3
-    },
-    {
-      "prediction": "horse A will crush it",
-      "eventId": 2,
-      "userId": "3",
-      "id": 4
-    },
-    {
-      "prediction": "that fluffy will crush the pink panther",
-      "eventId": 3,
-      "userId": "1",
-      "id": 5
-    },
-    {
-      "prediction": "bet test 000",
-      "eventId": 3,
-      "userId": "1",
-      "id": 6
-    },
-    {
-      "prediction": "that fluffy will crush the pink panther",
-      "eventId": 4,
-      "userId": "1",
-      "id": 7
-    },
-    {
-      "prediction": "pink panther will try pretty hard",
-      "eventId": 4,
-      "userId": "2",
-      "id": 8
-    },
-    {
-      "prediction": "bet test 333",
-      "eventId": 5,
-      "userId": "3",
-      "id": 9
-    },
-    {
-      "prediction": "go ninja go",
-      "eventId": 5,
-      "userId": "1",
-      "id": 10
     }
   ],
   "users": [
@@ -116,10 +33,6 @@
     {
       "id": 2,
       "name": "Kyle"
-    },
-    {
-      "name": "Greg",
-      "id": 3
     }
   ]
 }
