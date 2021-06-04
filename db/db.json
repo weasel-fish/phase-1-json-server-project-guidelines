@@ -7,6 +7,22 @@
       "determined": false,
       "settled": false,
       "timestamp": "Fri Jun 04 2021"
+    },
+    {
+      "betTitle": "What Season is it?",
+      "wager": "Elmer's hat",
+      "timestamp": "Fri Jun 04 2021",
+      "determined": false,
+      "settled": false,
+      "id": 2
+    },
+    {
+      "betTitle": "Winds of Winter",
+      "wager": "The value of a hardcover GoT book",
+      "timestamp": "Fri Jun 04 2021",
+      "determined": false,
+      "settled": false,
+      "id": 3
     }
   ],
   "bets": [
@@ -21,6 +37,30 @@
       "prediction": "The coin will land on tails",
       "eventId": 1,
       "userId": 2
+    },
+    {
+      "prediction": "it's duck season!",
+      "eventId": 2,
+      "userId": "3",
+      "id": 3
+    },
+    {
+      "prediction": "it's wabbit season!",
+      "eventId": 2,
+      "userId": "4",
+      "id": 4
+    },
+    {
+      "prediction": "Gearge R.R. Martin will die before completing Winds of Winter",
+      "eventId": 3,
+      "userId": "2",
+      "id": 5
+    },
+    {
+      "prediction": "Winds of Winter will come out by the end of '22",
+      "eventId": 3,
+      "userId": "1",
+      "id": 6
     }
   ],
   "users": [
@@ -31,6 +71,14 @@
     {
       "id": 2,
       "name": "Kyle"
+    },
+    {
+      "name": "Bugs Bunny",
+      "id": 3
+    },
+    {
+      "name": "Daffy Duck",
+      "id": 4
     }
   ]
 }
