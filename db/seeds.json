@@ -6,7 +6,7 @@
       "wager": "Chocolate Chip Cookie",
       "determined": false,
       "settled": false,
-      "timestamp": "timestamp"
+      "timestamp": "Fri Jun 04 2021"
      }
     ],
   "bets": [
@@ -14,15 +14,13 @@
       "id": 1,
       "prediction": "The coin will land on heads",
       "eventId": 1,
-      "userId": 1,
-      "createdAt": 1558524356
+      "userId": 1
     },
     {
       "id": 2,
       "prediction": "The coin will land on tails",
       "eventId": 1,
-      "userId": 2,
-      "createdAt": 1558524356
+      "userId": 2
     }
   ],
  "users": [
